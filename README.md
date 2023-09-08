@@ -1,4 +1,4 @@
 # my-first-repo
 
 hallo
-![huiskamer lamp en plant](IMG_6395.jpg)
+![Collusseum rome roadtrip](img/Rome_roadtrip.jpg)
